@@ -1,0 +1,15 @@
+{
+  "name": "noteforge-document-editor",
+  "version": "1.0.0",
+  "description": "A polished, client-side note-taking and document editor.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'No build step required for static site'",
+    "lint": "echo 'No linting required'"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

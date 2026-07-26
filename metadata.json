@@ -1,5 +1,5 @@
 {
-  "name": "NoteForge — Document Editor",
+  "name": "Urnperiodic Notes",
   "description": "A polished, client-side note-taking and document editor with folders, tags, versions, and keyboard shortcuts.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

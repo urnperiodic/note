@@ -1,4 +1,4 @@
-# NoteForge — Client-Side Document Editor
+# Urnperiodic Notes — Client-Side Document Editor
 
 A polished, **100% client-side** note-taking & document editor built with plain
 HTML, CSS and vanilla JavaScript. It combines the feel of Google Docs, Notion

@@ -1,5 +1,5 @@
 /* ============================================================
-   Urnperiodic Notes — client-side document editor
+   Feather Notes — client-side document editor
    Vanilla JS. State persisted in LocalStorage.
    Sections:
      1. State model & persistence
